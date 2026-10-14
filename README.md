@@ -63,7 +63,7 @@ Below is the comparative breakdown of leading AI audio enhancement platforms, ra
 
 ## 💻 Open-Source GitHub Projects
 
-Explore the premier open-source audio restoration models, stem separators, and speech enhancement toolkits. Projects are sorted in descending order by **GitHub Stars_Count**.
+Explore the premier open-source audio restoration models, stem separators, and speech enhancement toolkits. Projects are sorted in descending order by **GitHub_Stars_Count**.
 
 1. **[deezer/spleeter](https://github.com/deezer/spleeter)** [![GitHub_Stars](https://img.shields.io/github/stars/deezer/spleeter?style=social&color=white)](https://github.com/deezer/spleeter/stargazers)  
    *Deezer's ultra-fast audio source separation library written in Python/TensorFlow. Separates music and speech into 2-stem, 4-stem, or 5-stem stems.*  
