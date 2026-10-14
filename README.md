@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-AI-Audio-Enhancement/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Audio-Enhancement?style=flat-square&logo=github" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Audio-Enhancement/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Audio-Enhancement?style=flat-square&logo=github" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Audio-Enhancement/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Audio-Enhancement?style=flat-square&logo=github" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Audio-Enhancement/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-AI-Audio-Enhancement?style=flat-square" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Audio-Enhancement/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
@@ -63,69 +63,69 @@ Below is the comparative breakdown of leading AI audio enhancement platforms, ra
 
 ## 💻 Open-Source GitHub Projects
 
-Explore the premier open-source audio restoration models, stem separators, and speech enhancement toolkits. Projects are sorted in descending order by **GitHub Star Count**.
+Explore the premier open-source audio restoration models, stem separators, and speech enhancement toolkits. Projects are sorted in descending order by **GitHub Stars_Count**.
 
-1. **[deezer/spleeter](https://github.com/deezer/spleeter)** [![GitHub stars](https://img.shields.io/github/stars/deezer/spleeter?style=social&color=white)](https://github.com/deezer/spleeter/stargazers)  
+1. **[deezer/spleeter](https://github.com/deezer/spleeter)** [![GitHub_Stars](https://img.shields.io/github/stars/deezer/spleeter?style=social&color=white)](https://github.com/deezer/spleeter/stargazers)  
    *Deezer's ultra-fast audio source separation library written in Python/TensorFlow. Separates music and speech into 2-stem, 4-stem, or 5-stem stems.*  
    `License: MIT` • `Domain: Source Separation / Stem Extraction`
 
-2. **[k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)** [![GitHub stars](https://img.shields.io/github/stars/k2-fsa/sherpa-onnx?style=social&color=white)](https://github.com/k2-fsa/sherpa-onnx/stargazers)  
+2. **[k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)** [![GitHub_Stars](https://img.shields.io/github/stars/k2-fsa/sherpa-onnx?style=social&color=white)](https://github.com/k2-fsa/sherpa-onnx/stargazers)  
    *Offline multi-platform speech toolkit supporting real-time speech enhancement, noise suppression, voice activity detection (VAD), speaker identification, and ASR/TTS across Linux, macOS, Windows, Android, iOS, and Raspberry Pi via ONNX Runtime.*  
    `License: Apache-2.0` • `Domain: Speech Enhancement / VAD / Embedded Processing`
 
-3. **[facebookresearch/demucs](https://github.com/facebookresearch/demucs)** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/demucs?style=social&color=white)](https://github.com/facebookresearch/demucs/stargazers)  
+3. **[facebookresearch/demucs](https://github.com/facebookresearch/demucs)** [![GitHub_Stars](https://img.shields.io/github/stars/facebookresearch/demucs?style=social&color=white)](https://github.com/facebookresearch/demucs/stargazers)  
    *State-of-the-art music source separation and vocal extraction architecture from Meta AI based on Hybrid Transformers and U-Nets (HT Demucs).*  
    `License: MIT` • `Domain: Source Separation / Vocal Isolation`
 
-4. **[xiph/rnnoise](https://github.com/xiph/rnnoise)** [![GitHub stars](https://img.shields.io/github/stars/xiph/rnnoise?style=social&color=white)](https://github.com/xiph/rnnoise/stargazers)  
+4. **[xiph/rnnoise](https://github.com/xiph/rnnoise)** [![GitHub_Stars](https://img.shields.io/github/stars/xiph/rnnoise?style=social&color=white)](https://github.com/xiph/rnnoise/stargazers)  
    *Mozilla & Xiph.Org's classic recurrent neural network for real-time speech noise suppression. Extremely lightweight, optimized for real-time CPU telephony and VoIP.*  
    `License: BSD-3-Clause` • `Domain: Real-Time Denoising / DSP-RNN`
 
-5. **[Rikorose/DeepFilterNet](https://github.com/Rikorose/DeepFilterNet)** [![GitHub stars](https://img.shields.io/github/stars/Rikorose/DeepFilterNet?style=social&color=white)](https://github.com/Rikorose/DeepFilterNet/stargazers)  
+5. **[Rikorose/DeepFilterNet](https://github.com/Rikorose/DeepFilterNet)** [![GitHub_Stars](https://img.shields.io/github/stars/Rikorose/DeepFilterNet?style=social&color=white)](https://github.com/Rikorose/DeepFilterNet/stargazers)  
    *Full-band (48 kHz) audio speech enhancement and noise suppression framework implementing deep filtering. Ultra low latency, written in Rust and Python with PyTorch/ONNX inference.*  
    `License: MIT` • `Domain: Real-Time Full-Band Denoising`
 
-6. **[modelscope/ClearerVoice-Studio](https://github.com/modelscope/ClearerVoice-Studio)** [![GitHub stars](https://img.shields.io/github/stars/modelscope/ClearerVoice-Studio?style=social&color=white)](https://github.com/modelscope/ClearerVoice-Studio/stargazers)  
+6. **[modelscope/ClearerVoice-Studio](https://github.com/modelscope/ClearerVoice-Studio)** [![GitHub_Stars](https://img.shields.io/github/stars/modelscope/ClearerVoice-Studio?style=social&color=white)](https://github.com/modelscope/ClearerVoice-Studio/stargazers)  
    *All-in-one AI speech processing and audio enhancement studio from Alibaba ModelScope. Implements speech enhancement, target speaker extraction, speech separation, and super-resolution.*  
    `License: Apache-2.0` • `Domain: Speech Enhancement & Separation Studio`
 
-7. **[resemble-ai/resemble-enhance](https://github.com/resemble-ai/resemble-enhance)** [![GitHub stars](https://img.shields.io/github/stars/resemble-ai/resemble-enhance?style=social&color=white)](https://github.com/resemble-ai/resemble-enhance/stargazers)  
+7. **[resemble-ai/resemble-enhance](https://github.com/resemble-ai/resemble-enhance)** [![GitHub_Stars](https://img.shields.io/github/stars/resemble-ai/resemble-enhance?style=social&color=white)](https://github.com/resemble-ai/resemble-enhance/stargazers)  
    *Two-stage neural speech enhancement framework combining a 2D UNet denoiser with conditional flow matching for studio-grade acoustic restoration. Also available on Apple Silicon via [MLX weights](https://huggingface.co/smcleod/resemble-enhance-mlx).*  
    `License: CC-BY-NC-4.0` • `Domain: Studio Sound Restoration / Flow Matching`
 
-8. **[haoheliu/versatile_audio_super_resolution](https://github.com/haoheliu/versatile_audio_super_resolution)** [![GitHub stars](https://img.shields.io/github/stars/haoheliu/versatile_audio_super_resolution?style=social&color=white)](https://github.com/haoheliu/versatile_audio_super_resolution/stargazers)  
+8. **[haoheliu/versatile_audio_super_resolution](https://github.com/haoheliu/versatile_audio_super_resolution)** [![GitHub_Stars](https://img.shields.io/github/stars/haoheliu/versatile_audio_super_resolution?style=social&color=white)](https://github.com/haoheliu/versatile_audio_super_resolution/stargazers)  
    *AudioSR: versatile diffusion-based audio super-resolution and bandwidth extension model capable of upsampling any 16 kHz or 24 kHz audio to pristine 48 kHz studio sound.*  
    `License: Apache-2.0` • `Domain: Audio Super-Resolution / Bandwidth Extension`
 
-9. **[facebookresearch/denoiser](https://github.com/facebookresearch/denoiser)** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/denoiser?style=social&color=white)](https://github.com/facebookresearch/denoiser/stargazers)  
+9. **[facebookresearch/denoiser](https://github.com/facebookresearch/denoiser)** [![GitHub_Stars](https://img.shields.io/github/stars/facebookresearch/denoiser?style=social&color=white)](https://github.com/facebookresearch/denoiser/stargazers)  
    *Real-time raw waveform speech enhancement using end-to-end causal convolutional networks (Demucs-based) from Meta AI.*  
    `License: CC-BY-NC-4.0` • `Domain: Waveform Speech Denoising`
 
-10. **[sigsep/open-unmix-pytorch](https://github.com/sigsep/open-unmix-pytorch)** [![GitHub stars](https://img.shields.io/github/stars/sigsep/open-unmix-pytorch?style=social&color=white)](https://github.com/sigsep/open-unmix-pytorch/stargazers)  
+10. **[sigsep/open-unmix-pytorch](https://github.com/sigsep/open-unmix-pytorch)** [![GitHub_Stars](https://img.shields.io/github/stars/sigsep/open-unmix-pytorch?style=social&color=white)](https://github.com/sigsep/open-unmix-pytorch/stargazers)  
     *Reference deep neural network implementation for music source separation and stem extraction in PyTorch with pre-trained models and TorchScript export.*  
     `License: MIT` • `Domain: Source Separation / PyTorch Reference`
 
-11. **[microsoft/DNS-Challenge](https://github.com/microsoft/DNS-Challenge)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/DNS-Challenge?style=social&color=white)](https://github.com/microsoft/DNS-Challenge/stargazers)  
+11. **[microsoft/DNS-Challenge](https://github.com/microsoft/DNS-Challenge)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/DNS-Challenge?style=social&color=white)](https://github.com/microsoft/DNS-Challenge/stargazers)  
     *Microsoft Deep Noise Suppression Challenge codebase, baseline deep learning architectures, acoustic datasets, and DNSMOS objective audio quality evaluators.*  
     `License: MIT` • `Domain: Benchmarking / Acoustic Datasets / DNSMOS`
 
-12. **[kuleshov/audio-super-res](https://github.com/kuleshov/audio-super-res)** [![GitHub stars](https://img.shields.io/github/stars/kuleshov/audio-super-res?style=social&color=white)](https://github.com/kuleshov/audio-super-res/stargazers)  
+12. **[kuleshov/audio-super-res](https://github.com/kuleshov/audio-super-res)** [![GitHub_Stars](https://img.shields.io/github/stars/kuleshov/audio-super-res?style=social&color=white)](https://github.com/kuleshov/audio-super-res/stargazers)  
     *Deep learning neural network implementation for audio super-resolution and high-frequency spectral reconstruction from downsampled audio recordings.*  
     `License: MIT` • `Domain: Audio Super-Resolution / CNN Upsampling`
 
-13. **[santi-pdp/segan](https://github.com/santi-pdp/segan)** [![GitHub stars](https://img.shields.io/github/stars/santi-pdp/segan?style=social&color=white)](https://github.com/santi-pdp/segan/stargazers)  
+13. **[santi-pdp/segan](https://github.com/santi-pdp/segan)** [![GitHub_Stars](https://img.shields.io/github/stars/santi-pdp/segan?style=social&color=white)](https://github.com/santi-pdp/segan/stargazers)  
     *Pioneering Speech Enhancement Generative Adversarial Network (SEGAN) processing raw time-domain waveforms to eliminate ambient background disturbances.*  
     `License: MIT` • `Domain: Waveform GAN Enhancement`
 
-14. **[NVIDIA/CleanUNet](https://github.com/NVIDIA/CleanUNet)** [![GitHub stars](https://img.shields.io/github/stars/NVIDIA/CleanUNet?style=social&color=white)](https://github.com/NVIDIA/CleanUNet/stargazers)  
+14. **[NVIDIA/CleanUNet](https://github.com/NVIDIA/CleanUNet)** [![GitHub_Stars](https://img.shields.io/github/stars/NVIDIA/CleanUNet?style=social&color=white)](https://github.com/NVIDIA/CleanUNet/stargazers)  
     *NVIDIA's causal speech denoising and dereverberation model featuring an end-to-end 1D U-Net architecture enriched with cross-channel self-attention.*  
     `License: BSD-3-Clause` • `Domain: Speech Dereverberation & Denoising`
 
-15. **[jisoo-o/UniVoiceLite](https://github.com/jisoo-o/UniVoiceLite)** [![GitHub stars](https://img.shields.io/github/stars/jisoo-o/UniVoiceLite?style=social&color=white)](https://github.com/jisoo-o/UniVoiceLite/stargazers)  
+15. **[jisoo-o/UniVoiceLite](https://github.com/jisoo-o/UniVoiceLite)** [![GitHub_Stars](https://img.shields.io/github/stars/jisoo-o/UniVoiceLite?style=social&color=white)](https://github.com/jisoo-o/UniVoiceLite/stargazers)  
     *Lightweight unsupervised audio-visual speech enhancement and speaker separation framework utilizing facial visual cues, lip movement, and Wasserstein distance regularization.*  
     `License: MIT` • `Domain: Audio-Visual Multimodal Separation`
 
-16. **[teachingpython/post-production](https://github.com/teachingpython/post-production)** [![GitHub stars](https://img.shields.io/github/stars/teachingpython/post-production?style=social&color=white)](https://github.com/teachingpython/post-production/stargazers)  
+16. **[teachingpython/post-production](https://github.com/teachingpython/post-production)** [![GitHub_Stars](https://img.shields.io/github/stars/teachingpython/post-production?style=social&color=white)](https://github.com/teachingpython/post-production/stargazers)  
     *Command-line automation pipeline for podcast post-production integrating Dolby.io enhancement APIs, AssemblyAI transcription, filler-word trimming, and transcoding.*  
     `License: MIT` • `Domain: Podcast Post-Production CLI Automation`
 
@@ -180,7 +180,7 @@ We welcome contributions from researchers, creators, and audio software engineer
 2. 🌿 **Create a descriptive feature branch** (`git checkout -b add-my-audio-tool`).
 3. 📝 **Add or update entries in `README.md`**:
    - For SaaS tools: include company scale, verified starting price tier, and exact free tier/trial limits.
-   - For Open-Source repositories: include repository link, star count badge, license, and brief description.
+   - For Open-Source repositories: include repository link, Stars_Count badge, license, and brief description.
 4. 🚀 **Submit a Pull Request** with a concise explanation of why the tool belongs in this list.
 
 ---
